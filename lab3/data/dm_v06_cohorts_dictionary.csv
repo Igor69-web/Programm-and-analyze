@@ -1,0 +1,8 @@
+поле,тип в pandas,тип в DataLens,пример
+cohort_month,object,Дата,2017-01-01
+month_offset,int64,Целое число,0
+activity_month,object,Строка,2017-01-01
+active_customers,int64,Целое число,717
+cohort_size,int64,Целое число,717
+retention_pct,float64,Дробное число,100.0
+purchase_type,object,Строка,Первая покупка
