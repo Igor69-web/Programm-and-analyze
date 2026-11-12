@@ -77,7 +77,7 @@ ORDER BY g.cohort_month, g.month_offset
 | Когорта с наибольшим числом клиентов | 2017-11-01 |
 
 ## Дашборд DataLens
-Ссылка: <!-- https://datalens.yandex/conyx4p1hc86v?_share_link=public -->
+[Ссылка на дашборд](https://datalens.yandex/conyx4p1hc86v?_share_link=public)
 
 | № | Тип | Название |
 |---|---|---|
